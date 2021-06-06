@@ -67,7 +67,7 @@
     "lint-staged": "9.5.0",
     "prettier": "1.19.1",
     "rimraf": "3.0.2",
-    "xo": "0.30.0"
+    "xo": "0.40.2"
   },
   "xo": {
     "parser": "babel-eslint",
